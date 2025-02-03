@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Amarnath",
+      "email": "amar@gmail.com",
+      "degree": "BTech",
+      "stream": "CSE",
+      "percentage": "75%",
+      "contact": 9876543210
+    },
+    {
+      "id": "2",
+      "name": "Nadeem",
+      "email": "nadeem@gmail.com",
+      "degree": "MCA",
+      "stream": "CS",
+      "percentage": "96%",
+      "contact": 9874563210
+    },
+    {
+      "id": "1",
+      "name": "Amarnath",
+      "email": "amar@gmail.com",
+      "degree": "BTech",
+      "stream": "CSE",
+      "percentage": "75%",
+      "contact": "8688167126"
+    }
+  ]
+}
